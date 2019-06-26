@@ -28,6 +28,33 @@ header {
 
 
 /* MAIN */
+main {
+	padding: 20vh 0;
+}
+
+.display {
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 4px;
+	margin-right: 10vw;
+	margin-left: 10vw;
+	padding: 1vh 0;
+}
+
+#arrays {
+	border-color: #EC1146;
+}
+
+#message {
+	border-color: #8DCB0E;
+	margin-right: 15vw;
+	margin-left: 15vw;
+	background-color: #BADD30;
+}
+
+#numbers {
+	border-color: #BD116F;
+}
 
 
 
